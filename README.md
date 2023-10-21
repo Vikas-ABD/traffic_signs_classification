@@ -21,6 +21,6 @@ This project focuses on classifying traffic signs using a fine-tuned EfficientNe
 5. View the classification result on the web application interface. Evaluate the classification accuracy and make necessary adjustments to improve performance.
 
 ## Result
-![Traffic Sign Classification Result](result.png)
+![Traffic Sign Classification Result](results.png)
 
 Provide an image showcasing the web application interface and the classification result. Ensure that the image represents the user experience and the accuracy of the classification result.
